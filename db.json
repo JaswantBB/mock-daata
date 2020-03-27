@@ -1,0 +1,15 @@
+{
+  "id": 1,
+  "task_config": {
+    "name": "Verify RC"
+  },
+  "comments": [{
+    "name": "Jagadeesh",
+    "content": "RC image isn't clear",
+    "created_at": 1580965246000
+  }],
+  "instructions": [{
+    "content": "Please verify RC expiry date"
+  }],
+  "source": "OE_APP"
+}
