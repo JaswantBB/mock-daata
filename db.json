@@ -17,7 +17,7 @@
       "display_name": "Approve"
     }],
     "attributes": {
-      "client_type": "OE APP",
+      "client_type": "OE_APP",
       "document_type": "RC"
     }
   }
