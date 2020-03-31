@@ -5,13 +5,20 @@
       "name": "Verify RC"
     },
     "comments": [{
-      "name": "Jagadeesh",
+      "name": "Jaswant",
       "content": "RC image isn't clear",
       "created_at": 1580965246000
     }],
     "instructions": [{
       "content": "Please verify RC expiry date"
     }],
-    "source": "OE_APP"
-  }  
+    "actions": [{
+      "name": "String",
+      "display_name": "String"
+    }],
+    "attributes": {
+      "client_type": "OE_APP",
+      "document_type": "String"
+    }
+  }
 }
