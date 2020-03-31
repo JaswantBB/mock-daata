@@ -13,11 +13,11 @@
       "content": "Please verify RC expiry date"
     }],
     "actions": [{
-      "name": "String",
-      "display_name": "String"
+      "name": "approve",
+      "display_name": "Approve"
     }],
     "attributes": {
-      "client_type": "OE_APP",
+      "client_type": "OE APP",
       "document_type": "String"
     }
   }
