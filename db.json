@@ -26,43 +26,48 @@
     "user_task_data": [
       {
         "employee_id": 1,
-        "employee_name": "akram",
+        "employee_name": "Y M Jagdeesh",
         "num_assigned_task": 20,
         "num_completed_task": 20,
         "num_escalated_task": 20,
-        "average_handle_time": "3 hrs 2 mins"
+        "average_handle_time": "3 hrs 2 mins",
+        "status": "online"
       },
       {
         "employee_id": 1,
-        "employee_name": "akram",
+        "employee_name": "Jaswant",
         "num_assigned_task": 20,
         "num_completed_task": 20,
         "num_escalated_task": 20,
-        "average_handle_time": "3 hrs 2 mins"
+        "average_handle_time": "3 hrs 2 mins",
+        "status": "Online"
       },
       {
         "employee_id": 1,
-        "employee_name": "akram",
+        "employee_name": "Madan",
         "num_assigned_task": 20,
         "num_completed_task": 20,
         "num_escalated_task": 20,
-        "average_handle_time": "3 hrs 2 mins"
+        "average_handle_time": "3 hrs 2 mins",
+        "status": "Online"
       },
       {
         "employee_id": 1,
-        "employee_name": "akram",
+        "employee_name": "Blackbuck",
         "num_assigned_task": 20,
         "num_completed_task": 20,
         "num_escalated_task": 20,
-        "average_handle_time": "3 hrs 2 mins"
+        "average_handle_time": "3 hrs 2 mins",
+        "status": "Offline"
       },
       {
         "employee_id": 1,
-        "employee_name": "akram",
+        "employee_name": "Jaswant",
         "num_assigned_task": 20,
         "num_completed_task": 20,
         "num_escalated_task": 20,
-        "average_handle_time": "3 hrs 2 mins"
+        "average_handle_time": "3 hrs 2 mins",
+        "status": "Offline"
       }
     ]
   }
