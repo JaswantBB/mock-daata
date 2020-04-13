@@ -20,5 +20,50 @@
       "client_type": "OE_APP",
       "document_type": "RC"
     }
+  },
+  "userTaskMetrix": {
+    "message": "success",
+    "user_task_data": [
+      {
+        "employee_id": 1,
+        "employee_name": "akram",
+        "num_assigned_task": 20,
+        "num_completed_task": 20,
+        "num_escalated_task": 20,
+        "average_handle_time": "3 hrs 2 mins"
+      },
+      {
+        "employee_id": 1,
+        "employee_name": "akram",
+        "num_assigned_task": 20,
+        "num_completed_task": 20,
+        "num_escalated_task": 20,
+        "average_handle_time": "3 hrs 2 mins"
+      },
+      {
+        "employee_id": 1,
+        "employee_name": "akram",
+        "num_assigned_task": 20,
+        "num_completed_task": 20,
+        "num_escalated_task": 20,
+        "average_handle_time": "3 hrs 2 mins"
+      },
+      {
+        "employee_id": 1,
+        "employee_name": "akram",
+        "num_assigned_task": 20,
+        "num_completed_task": 20,
+        "num_escalated_task": 20,
+        "average_handle_time": "3 hrs 2 mins"
+      },
+      {
+        "employee_id": 1,
+        "employee_name": "akram",
+        "num_assigned_task": 20,
+        "num_completed_task": 20,
+        "num_escalated_task": 20,
+        "average_handle_time": "3 hrs 2 mins"
+      }
+    ]
   }
 }
