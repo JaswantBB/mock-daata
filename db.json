@@ -35,7 +35,7 @@
       },
       {
         "employee_id": 1,
-        "employee_name": "Jaswant",
+        "employee_name": "Y M Jagdeesh",
         "num_assigned_task": 20,
         "num_completed_task": 20,
         "num_escalated_task": 20,
@@ -53,7 +53,7 @@
       },
       {
         "employee_id": 1,
-        "employee_name": "Blackbuck",
+        "employee_name": "Jaswant",
         "num_assigned_task": 20,
         "num_completed_task": 20,
         "num_escalated_task": 20,
@@ -70,5 +70,17 @@
         "status": "Offline"
       }
     ]
+  },
+  "userAggregatedData": {
+    "team_task_data": {
+      "num_generated_tasks": 100,
+      "num_assigned_tasks": 70,
+      "num_unassigned_tasks": 30,
+      "num_escalated_tasks": 20,
+      "num_completed_task_in_time": 30,
+      "num_online_users": 30,
+      "num_offline_users": 40,
+      "total_users": 70
+    }
   }
 }
