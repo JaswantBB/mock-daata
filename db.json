@@ -1,26 +1,4 @@
 {
-  "task_detail": {
-    "id": 1,
-    "task_config": {
-      "name": "Verify RC"
-    },
-    "comments": [{
-      "name": "Jaswant",
-      "content": "RC image isn't clear",
-      "created_at": 1580965246000
-    }],
-    "instructions": [{
-      "content": "Please verify RC expiry date"
-    }],
-    "actions": [{
-      "name": "approve",
-      "display_name": "Approve"
-    }],
-    "attributes": {
-      "client_type": "OE_APP",
-      "document_type": "RC"
-    }
-  },
   "userTaskMetrix": {
     "message": "success",
     "user_task_data": [
