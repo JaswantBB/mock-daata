@@ -72,6 +72,7 @@
     ]
   },
   "userAggregatedData": {
+    "message": "success",
     "team_task_data": {
       "num_generated_tasks": 100,
       "num_assigned_tasks": 70,
@@ -82,5 +83,34 @@
       "num_offline_users": 40,
       "total_users": 70
     }
+  },
+  "teamAhtData": {
+    "message": "Success",
+    "overall_average_handle_time": 56,
+    "Average_handle_time_p50":23,
+    "Average_handle_time_p70":23,
+    "average_handle_time_p00":43,
+    "result": [
+      {
+        "date": 1586787222005,
+        "average_handle_time": 35        
+      },
+      {
+        "date": 1586787222005,
+        "average_handle_time": 25        
+      },
+      {
+        "date": 1586787222005,
+        "average_handle_time": 15        
+      },
+      {
+        "date": 1586787222005,
+        "average_handle_time": 28       
+      },
+      {
+        "date": 1586787222005,
+        "average_handle_time": 12       
+      }
+    ]
   }
 }
