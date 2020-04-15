@@ -8,6 +8,9 @@
         "num_assigned_task": 20,
         "num_completed_task": 20,
         "num_escalated_task": 20,
+        "num_p50": 30,
+        "num_p70": 40,
+        "num_p90": 50,
         "average_handle_time": "3 hrs 2 mins",
         "status": "Online"
       },
@@ -17,6 +20,9 @@
         "num_assigned_task": 20,
         "num_completed_task": 20,
         "num_escalated_task": 20,
+        "num_p50": 30,
+        "num_p70": 40,
+        "num_p90": 50,
         "average_handle_time": "3 hrs 2 mins",
         "status": "Online"
       },
@@ -26,6 +32,9 @@
         "num_assigned_task": 20,
         "num_completed_task": 20,
         "num_escalated_task": 20,
+        "num_p50": 30,
+        "num_p70": 40,
+        "num_p90": 50,
         "average_handle_time": "3 hrs 2 mins",
         "status": "Online"
       },
@@ -35,6 +44,9 @@
         "num_assigned_task": 20,
         "num_completed_task": 20,
         "num_escalated_task": 20,
+        "num_p50": 30,
+        "num_p70": 40,
+        "num_p90": 50,
         "average_handle_time": "3 hrs 2 mins",
         "status": "Offline"
       },
@@ -44,6 +56,9 @@
         "num_assigned_task": 20,
         "num_completed_task": 20,
         "num_escalated_task": 20,
+        "num_p50": 30,
+        "num_p70": 40,
+        "num_p90": 50,
         "average_handle_time": "3 hrs 2 mins",
         "status": "Offline"
       }
